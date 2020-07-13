@@ -1,0 +1,987 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2018,11.85,13.56,NA,NA
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Shallow Pz,Tube Well,W28151,2018,NA,NA,14.25,10.89
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2018,NA,'0.62,NA,NA
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2018,NA,NA,2.02,2.44
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2018,NA,NA,1.32,NA
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2018,NA,NA,12.6,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2018,NA,NA,8.39,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2018,NA,NA,14.02,NA
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2018,NA,NA,15.55,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2018,NA,15.38,13.2,NA
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2018,NA,2.34,6.5,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2018,NA,5.17,6.35,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2018,NA,13.65,13.05,NA
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2018,NA,1.16,'0.53,NA
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2018,NA,'0.5,'0.53,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2018,NA,12.37,13.4,NA
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2018,NA,12.8,11.5,NA
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2018,NA,1.97,1.02,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2018,NA,1.99,2.06,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2018,NA,11.28,10.46,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2018,NA,14.7,11,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2018,NA,16.57,8.11,NA
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2018,NA,25.72,14.54,NA
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2018,NA,16.88,16.85,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2018,NA,18.3,18.38,NA
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2018,NA,17.49,13.92,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2018,NA,13.2,8.69,NA
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2018,NA,15.76,16.07,NA
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2018,NA,10.56,10.05,NA
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2018,NA,5,4.94,NA
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2018,NA,3.93,3.61,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97305556,88.03888889,Dasghara,Tube Well,W10483,2018,9.54,NA,NA,NA
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2018,6,NA,NA,NA
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2018,12.3,12.18,NA,NA
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2018,NA,3.1,3.35,NA
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2018,NA,14.05,11.65,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2018,NA,13.78,12.96,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2018,NA,10.54,12.66,NA
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2018,NA,14.25,11.9,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2018,NA,13.88,12.32,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2018,NA,16.97,10.99,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2018,NA,18.9,17.32,NA
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2018,NA,12.73,13.11,NA
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2018,NA,16.79,18.73,NA
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2018,NA,9.89,9.13,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73055556,88.20833333,Krishnarampur,Bore Well,W27965,2018,NA,NA,12.98,NA
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2018,13.03,14.65,NA,NA
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2017,1.21,2.17,1.68,3.16
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Shallow Pz,Tube Well,W28151,2017,NA,NA,NA,14.92
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2017,8.67,10.35,7.9,5.57
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2017,'0.37,'0.6,'0.97,'0.55
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2017,'0.22,2.91,'0.83,3.46
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2017,5.68,10.86,6.65,9.26
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2017,2.73,4,3.63,4.18
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2017,14.98,NA,NA,NA
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2017,NA,3.7,11.08,13.28
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2017,NA,2.3,1.06,3.81
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2017,NA,5.25,4.21,6.89
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2017,'0.63,NA,1.4,2.86
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2017,14.01,NA,7.93,14.01
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2017,14.49,NA,8.3,14.49
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2017,12.98,NA,9.1,19.28
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2017,11.78,NA,9.03,19.65
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2017,8.44,NA,19.6,19.21
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2017,NA,NA,'0.6,1.02
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2017,NA,NA,7.31,13.11
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2017,NA,NA,6.8,8.26
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2017,NA,NA,10.4,15.33
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2017,'0.43,'0.6,'0.44,NA
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2017,13.17,14.2,9.06,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2017,NA,20,7.25,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2017,NA,13,11.54,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2017,NA,15.13,9.56,NA
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2017,NA,18.1,13.12,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.66083333,87.89611111,Tetulia Chakrapur,Tube Well,W11195,2017,NA,NA,2.37,NA
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2017,NA,NA,1.56,NA
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2017,NA,NA,9,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2017,11.68,1.9,NA,13.14
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2017,1.08,NA,NA,1.98
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2017,NA,12.9,10.7,13.37
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2017,12.09,NA,3.35,NA
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2017,10.36,NA,8.35,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2017,12.64,NA,9.55,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2017,12.51,NA,8.7,NA
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2017,10.89,NA,9.35,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2017,12.22,NA,8.06,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2017,20.22,NA,15.87,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2017,10.65,NA,11.8,NA
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2017,NA,NA,11.57,NA
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2017,NA,NA,6.32,NA
+WB,Hugli,SHRIRAMPUR,Shrirampur,22.76388889,88.28222222,Shrirampur,Bore Well,W33205,2017,12.94,NA,NA,16.22
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2017,1.6,4.08,1.89,3.57
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2016,12.39,NA,NA,20.54
+WB,Hugli,SHRIRAMPUR,Shrirampur,22.76388889,88.28222222,Shrirampur,Bore Well,W33205,2016,10.85,NA,NA,NA
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2016,7.9,NA,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2016,9.65,NA,9.7,5.55
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2016,7.45,NA,8.2,NA
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2016,3.23,NA,11.75,7.76
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2016,2.34,NA,3.65,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2016,12.82,NA,11.4,NA
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2016,14.08,NA,NA,14.65
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2016,'0.84,NA,1.8,2.33
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2016,1.07,NA,2.2,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2016,12.79,NA,NA,15.82
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2016,NA,NA,NA,12.58
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2016,21.64,NA,NA,21.6
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2016,14.47,NA,NA,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2016,8.97,NA,NA,11.19
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2016,12.03,NA,NA,14.63
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2016,10.09,NA,NA,15.75
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2016,NA,NA,1.7,3.83
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2016,14,NA,NA,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2016,NA,NA,10.65,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2016,NA,NA,11.75,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2016,NA,NA,NA,15.22
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2016,NA,NA,3.1,2.98
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2016,11.02,NA,10.6,NA
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2016,10.95,NA,2.6,NA
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2016,NA,NA,1.57,NA
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2016,'0.42,NA,1.6,'0.41
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2016,14.92,NA,NA,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2016,NA,NA,NA,15.66
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2016,NA,NA,NA,17.91
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2016,'0.01,NA,1.6,3.29
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2016,3.76,NA,NA,14.99
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2016,'0.79,NA,'0.7,NA
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2016,'0.79,NA,NA,'0.46
+WB,Hugli,Jangipara,Jangipara,22.71777778,88.02861111,Dilakash1,Tube Well,W27957,2016,NA,18.95,NA,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73055556,88.20833333,Krishnarampur,Bore Well,W27965,2016,NA,3.47,NA,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Srirampur1,Tube Well,W27979,2016,NA,10.78,NA,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Uttarpara (Kotrang),Dug Well,W27980,2016,NA,1.2,NA,'0.93
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2016,NA,15.18,NA,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2016,NA,17.55,NA,NA
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2016,2.85,3.24,NA,3.03
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2016,NA,12.22,NA,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.83361111,87.65,Mandaran,Tube Well,W28018,2016,NA,12.28,NA,NA
+WB,Hugli,Pursura,Pursura,22.8425,87.92861111,Masinan,Bore Well,W28021,2016,NA,16.33,NA,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2016,NA,14.84,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88138889,87.75,Patulsara,Bore Well,W28039,2016,NA,17.11,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2016,NA,15.14,NA,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2016,NA,15.15,NA,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28043,2016,NA,15.32,NA,NA
+WB,Hugli,Arambag,Arambag,22.91888889,87.81694444,Tirol,Tube Well,W28061,2016,NA,14.98,NA,NA
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2016,NA,17.66,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.93138889,87.71416667,Ragubati (Rajgram),Bore Well,W28072,2016,NA,17.69,NA,NA
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2016,16.58,12.5,NA,13.24
+WB,Hugli,Goghat-i,Goghat-i,22.93972222,87.69944444,Bhadeshwar,Tube Well,W28078,2016,NA,17.86,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.94666667,87.73222222,Kumarganj1,Tube Well,W28081,2016,NA,9.94,NA,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.95861111,88.30777778,Polba2,Dug Well,W28085,2016,NA,2.65,NA,1.6
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97027778,88.02916667,Dasghara2,Bore Well,W28088,2016,NA,13.33,NA,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2016,NA,14.03,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.07888889,88.39611111,Pandua1,Tube Well,W28174,2016,NA,16.79,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.09722222,88.45666667,Hirat,Dug Well,W28186,2016,NA,1.59,NA,1.51
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2016,NA,10.16,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.1325,88.39611111,Inchura1,Tube Well,W28209,2016,NA,10.26,NA,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2016,11.24,NA,NA,17.17
+WB,Hugli,Balagarh,Balagarh,23.07888889,88.39611111,Pandua1,Tube Well,W28174,2015,17.75,16.9,18.6,20.22
+WB,Hugli,Balagarh,Balagarh,23.09722222,88.45666667,Hirat,Dug Well,W28186,2015,'0.51,1.83,1.03,2.83
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2015,14.03,17.58,12.77,NA
+WB,Hugli,Balagarh,Balagarh,23.1325,88.39611111,Inchura1,Tube Well,W28209,2015,8.73,8.98,8.34,10.2
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2015,14.9,21.88,14.27,21.87
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2015,13.74,15.32,12.92,16.76
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2015,2.74,3.02,4.49,5.86
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2015,3.23,6.4,3.98,9.62
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2015,1.64,4.33,4.03,5.22
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2015,11.02,11.8,NA,13.94
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2015,14.88,NA,13.05,14.88
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2015,'0.98,2.16,1.76,3.76
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2015,8.37,9.44,10.24,13.8
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2015,9.89,10.18,NA,12.9
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2015,20,19.09,20.5,21.4
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2015,11.77,15.8,NA,14.85
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2015,2.5,9.8,8.87,10.8
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2015,13.56,14.4,NA,16.85
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2015,9.95,14.03,10.17,9.95
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2015,11.02,3.51,9.51,7.88
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2015,'0.98,2.52,1.37,3.9
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2015,12.64,14.4,NA,15.97
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2015,NA,8.77,NA,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2015,10,8.79,6.72,10.82
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2015,7.81,14.92,8.55,7.81
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2015,NA,11.55,NA,NA
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2015,NA,3.9,NA,2.85
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2015,1.7,2.78,2.29,20.05
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2015,7.77,14.5,NA,15.88
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2015,'0.26,'0.58,'0.28,'0.6
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2015,9.04,13.5,NA,14.45
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2015,NA,15.7,NA,16.96
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2015,NA,22.6,NA,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2015,9.22,13.5,9.46,13.1
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2015,11.02,14.62,12.32,17.2
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2015,'0.17,3.61,'0.93,'0.17
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2015,7.93,12.16,9.03,13.65
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2015,NA,3.35,NA,6.82
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2015,7.32,11.8,NA,11.7
+WB,Hugli,Jangipara,Jangipara,22.71777778,88.02861111,Dilakash1,Tube Well,W27957,2015,7.41,15.89,10.73,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73055556,88.20833333,Krishnarampur,Bore Well,W27965,2015,10.23,13.53,12.98,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.73472222,87.78444444,Ghoshpur,Tube Well,W27968,2015,NA,21.4,12.9,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Srirampur1,Tube Well,W27979,2015,9.57,10.29,10.57,13.1
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Uttarpara (Kotrang),Dug Well,W27980,2015,'0.91,1.36,10.06,2.48
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2015,9.27,14.07,10.45,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2015,14.53,9.79,12.09,NA
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2015,3.04,3.3,3.5,3.44
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2015,NA,11.9,10.9,3.21
+WB,Hugli,Goghat-ii,Goghat-ii,22.83361111,87.65,Mandaran,Tube Well,W28018,2015,11.2,11.87,11.2,14.7
+WB,Hugli,Pursura,Pursura,22.8425,87.92861111,Masinan,Bore Well,W28021,2015,13.48,15.92,12.82,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2015,11.3,3.34,11.34,15.1
+WB,Hugli,Goghat-i,Goghat-i,22.88138889,87.75,Patulsara,Bore Well,W28039,2015,15.48,8.83,15.81,16.15
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2015,10.91,14.28,10.88,14.8
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2015,9.86,13.61,10.72,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28043,2015,10.7,11.3,11.08,NA
+WB,Hugli,Dhaniakhali,Tarakeshwar,22.90666667,88.04888889,Aknapur,Bore Well,W28054,2015,10.26,11.5,NA,NA
+WB,Hugli,Arambag,Arambag,22.91888889,87.81694444,Tirol,Tube Well,W28061,2015,10.47,11.65,13.95,13.2
+WB,Hugli,Arambag,Arambag,22.92,87.86472222,Batanol,Bore Well,W28062,2015,NA,15.75,NA,NA
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2015,11.52,14.37,15.25,13.2
+WB,Hugli,Goghat-i,Goghat-i,22.93138889,87.71416667,Ragubati (Rajgram),Bore Well,W28072,2015,14.03,16.7,17.52,18.6
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2015,11.19,12.3,11.5,14.85
+WB,Hugli,Goghat-i,Goghat-i,22.93972222,87.69944444,Bhadeshwar,Tube Well,W28078,2015,16.2,8.46,18.14,18.46
+WB,Hugli,Goghat-i,Goghat-i,22.94666667,87.73222222,Kumarganj1,Tube Well,W28081,2015,15.49,5.87,9.32,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.95861111,88.30777778,Polba2,Dug Well,W28085,2015,3.2,1.7,1.25,3.25
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97027778,88.02916667,Dasghara2,Bore Well,W28088,2015,8.6,11.42,9.07,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2015,NA,9.77,11.7,NA
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Shallow Pz,Tube Well,W28151,2015,NA,14.53,NA,NA
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2015,NA,11.78,NA,16.18
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2014,NA,12.07,2.33,10.44
+WB,Hugli,Balagarh,Balagarh,23.1325,88.39611111,Inchura1,Tube Well,W28209,2014,8.7,7.95,7.89,9.76
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2014,11.03,10.9,NA,18.18
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2014,12.69,12.52,NA,14.72
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2014,3.97,4.77,NA,5.25
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2014,3.36,4.86,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2014,3.99,4.33,NA,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2014,NA,9.67,NA,13.4
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2014,NA,13.82,NA,NA
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2014,'0.33,NA,NA,2.75
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2014,10.6,10.04,NA,11.87
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2014,10.84,10.03,NA,11.93
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2014,20.01,19.67,NA,21.27
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2014,13.98,NA,NA,17.05
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2014,6.86,7.61,NA,10.53
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2014,12.93,NA,NA,15.42
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2014,12,9.62,NA,NA
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2014,7.38,8.93,NA,11.84
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2014,'0.34,NA,NA,4.59
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2014,13.35,9.86,NA,15.2
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2014,NA,8.92,NA,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2014,10.96,8.14,NA,14.03
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2014,8.65,8.06,NA,NA
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2014,10.18,NA,NA,NA
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2014,4.18,NA,NA,NA
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2014,2.08,2.56,NA,4
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2014,13.37,11.37,NA,NA
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2014,NA,'0.55,NA,'0.48
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2014,9.64,8.88,NA,13.44
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2014,14.29,NA,NA,16.69
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2014,NA,8.7,NA,18.38
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2014,10.92,10.12,NA,13.9
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2014,11.34,12.24,NA,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2014,'0.15,1.48,NA,3.7
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2014,9.11,8.85,NA,12.85
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2014,NA,NA,NA,'0.46
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2014,8.77,8.15,NA,11.84
+WB,Hugli,Jangipara,Jangipara,22.71777778,88.02861111,Dilakash1,Tube Well,W27957,2014,13.86,8.54,11.91,15.08
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73055556,88.20833333,Krishnarampur,Bore Well,W27965,2014,9.95,8.35,8.82,13.22
+WB,Hugli,Khanakui-i,Khanakui-i,22.73472222,87.78444444,Ghoshpur,Tube Well,W27968,2014,10.9,NA,15.7,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Srirampur1,Tube Well,W27979,2014,9.22,8.11,9.37,11.02
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Uttarpara (Kotrang),Dug Well,W27980,2014,'0.76,'0.96,1.02,'0.02
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2014,12.5,10.43,7.9,14.13
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2014,15.64,16.52,15.77,18.46
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2014,2.85,2.75,10.01,3.14
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2014,13.24,10.6,10.01,12.13
+WB,Hugli,Goghat-ii,Goghat-ii,22.83361111,87.65,Mandaran,Tube Well,W28018,2014,12.23,10.88,9,13.43
+WB,Hugli,Pursura,Pursura,22.8425,87.92861111,Masinan,Bore Well,W28021,2014,12.05,13.34,6.81,16.84
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2014,12.03,11.04,10.18,15.57
+WB,Hugli,Goghat-i,Goghat-i,22.88138889,87.75,Patulsara,Bore Well,W28039,2014,NA,NA,17.3,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2014,12.58,10.09,9.56,15.22
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2014,9.38,10.35,9.31,14.73
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28043,2014,9.75,10.28,9.23,14.27
+WB,Hugli,Arambag,Arambag,22.91888889,87.81694444,Tirol,Tube Well,W28061,2014,9.77,NA,8.99,14.27
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2014,9.08,8.79,10.07,14.64
+WB,Hugli,Goghat-i,Goghat-i,22.93138889,87.71416667,Ragubati (Rajgram),Bore Well,W28072,2014,13.65,14.02,14.36,17.95
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2014,10.93,11.39,10.79,13.57
+WB,Hugli,Goghat-i,Goghat-i,22.93972222,87.69944444,Bhadeshwar,Tube Well,W28078,2014,16.22,15.53,16.54,19.73
+WB,Hugli,Goghat-i,Goghat-i,22.94666667,87.73222222,Kumarganj1,Tube Well,W28081,2014,9.05,8.39,6.85,10.73
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.95861111,88.30777778,Polba2,Dug Well,W28085,2014,1.36,1.62,1.74,2.98
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97027778,88.02916667,Dasghara2,Bore Well,W28088,2014,6.86,9.92,8.76,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2014,18.14,15.14,10.65,18.22
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Shallow Pz,Tube Well,W28151,2014,9.63,12.7,12.86,NA
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2014,14.89,14.07,13.63,NA
+WB,Hugli,Balagarh,Balagarh,23.07888889,88.39611111,Pandua1,Tube Well,W28174,2014,7.7,15.41,16.31,18.78
+WB,Hugli,Balagarh,Balagarh,23.09722222,88.45666667,Hirat,Dug Well,W28186,2014,'0.93,1.33,1.02,1.27
+WB,Hugli,Balagarh,Balagarh,23.1325,88.39611111,Inchura1,Tube Well,W28209,2013,8.59,9.18,7.36,11.04
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2013,11.15,13.13,6.28,20.42
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2013,12.58,13.88,7.89,15.99
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2013,3.51,6.1,3.32,4.83
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2013,4.72,8.33,3.35,13.05
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2013,3.49,4.32,3.83,4.65
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2013,12.03,11.84,8.89,14.16
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2013,NA,NA,10.88,NA
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2013,NA,2.08,1.58,NA
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2013,NA,2.21,NA,2.98
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2013,9.81,NA,NA,13.02
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2013,10.81,10.68,9.6,12.26
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2013,21.35,20.91,20.22,21.47
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2013,12.88,15.13,7.57,14.72
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2013,7.44,9.35,3.15,11.12
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2013,NA,15.04,NA,16.73
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2013,NA,10.84,6.1,11.92
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2013,8.79,4.24,5.55,13.49
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2013,'0.44,2.46,NA,2.3
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2013,11.87,11.65,9.28,15.42
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2013,NA,NA,8.88,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2013,7.98,9.86,7.21,10.16
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2013,NA,8.65,NA,13.52
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2013,NA,2.72,NA,NA
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2013,'0.94,3.61,'0.54,3.31
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2013,12.26,13.49,8.05,15.53
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2013,NA,3.15,NA,3.11
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2013,'0.32,'0.48,'0.26,'0.45
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2013,8.79,10.97,6.71,15.71
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2013,14.03,15.15,9.1,17.6
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2013,8.92,13.46,NA,16.69
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2013,8.77,11.9,5.45,12.95
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2013,12.2,13.89,9.59,18.55
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2013,'0.22,2.61,'0.21,3.31
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2013,8.33,8.98,5.99,13.09
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2013,6.88,10.01,4.42,10.76
+WB,Hugli,Jangipara,Jangipara,22.71777778,88.02861111,Dilakash1,Tube Well,W27957,2013,NA,NA,4.93,NA
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73055556,88.20833333,Krishnarampur,Bore Well,W27965,2013,9.17,NA,6.94,15.51
+WB,Hugli,Khanakui-i,Khanakui-i,22.73472222,87.78444444,Ghoshpur,Tube Well,W27968,2013,10.06,9.51,6.67,12.94
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Srirampur1,Tube Well,W27979,2013,9.28,9.7,8.11,11.45
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Uttarpara (Kotrang),Dug Well,W27980,2013,'0.7,2.02,'0.74,'0.94
+WB,Hugli,Tarakeshwar,Haripai,22.80638889,88.02722222,Gobarhanra,Bore Well,W27999,2013,8.27,NA,5.57,15.58
+WB,Hugli,Goghat-ii,Goghat-ii,22.82611111,87.63944444,Hazapur,Bore Well,W28013,2013,20.09,NA,15.32,19.33
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2013,2.28,3.15,2.58,3.11
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2013,11.44,12.47,9.68,13.1
+WB,Hugli,Goghat-ii,Goghat-ii,22.83361111,87.65,Mandaran,Tube Well,W28018,2013,12.62,13.33,10.96,14.54
+WB,Hugli,Pursura,Pursura,22.8425,87.92861111,Masinan,Bore Well,W28021,2013,12.2,NA,8.32,16.75
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.84333333,87.97916667,Muktapur1,Bore Well,W28022,2013,11.09,NA,7.91,15.33
+WB,Hugli,Goghat-i,Goghat-i,22.88138889,87.75,Patulsara,Bore Well,W28039,2013,NA,15.45,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88166667,87.7525,Chapadanga,Bore Well,W28040,2013,10.34,12.2,7.4,14.9
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28042,2013,9.66,NA,7.57,14.47
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.88888889,88.0425,Mirzapur2,Bore Well,W28043,2013,9.73,NA,7.58,14.4
+WB,Hugli,Arambag,Arambag,22.91888889,87.81694444,Tirol,Tube Well,W28061,2013,12.32,9.74,NA,14.55
+WB,Hugli,Arambag,Arambag,22.92444444,87.82944444,Puin,Bore Well,W28066,2013,9.64,NA,6.97,14.94
+WB,Hugli,Goghat-i,Goghat-i,22.93138889,87.71416667,Ragubati (Rajgram),Bore Well,W28072,2013,17.93,NA,10.02,20.79
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2013,11.77,12.37,10.45,14.09
+WB,Hugli,Goghat-i,Goghat-i,22.93972222,87.69944444,Bhadeshwar,Tube Well,W28078,2013,17.94,17.88,11.69,20.63
+WB,Hugli,Goghat-i,Goghat-i,22.94666667,87.73222222,Kumarganj1,Tube Well,W28081,2013,8.03,9.51,7.54,9.95
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.95861111,88.30777778,Polba2,Dug Well,W28085,2013,'0.93,2.21,'0.05,2.98
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97027778,88.02916667,Dasghara2,Bore Well,W28088,2013,6.31,NA,6.62,11.88
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.995,88.26222222,Mahanad,Bore Well,W28112,2013,15.53,NA,NA,20.05
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2013,NA,15.77,12.37,NA
+WB,Hugli,Balagarh,Balagarh,23.07888889,88.39611111,Pandua1,Tube Well,W28174,2013,18.43,16.71,15,19.93
+WB,Hugli,Balagarh,Balagarh,23.09722222,88.45666667,Hirat,Dug Well,W28186,2013,'0.24,NA,'0.63,1.8
+WB,Hugli,Pandua,Pandua,23.10027778,88.32638889,Mandolai (Deypara),Bore Well,W28189,2013,13.14,NA,10.73,16
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2012,NA,13.08,13.85,21.06
+WB,Hugli,Balagarh,Balagarh,23.1325,88.39611111,Inchura1,Tube Well,W28209,2012,NA,NA,8.45,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2012,NA,5.25,5.46,5.43
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2012,NA,5.05,7.62,9.03
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2012,NA,3.99,4.05,4.81
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2012,NA,10.3,11.04,13.34
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2012,NA,2.56,1.79,3.43
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2012,NA,NA,2.08,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2012,NA,9.94,NA,13.79
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2012,NA,10.33,12.6,11.92
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2012,NA,20.07,20.79,21.67
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2012,NA,13.1,14.68,14.45
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2012,NA,8.55,10.37,11.15
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2012,NA,13.7,15.5,16.45
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2012,NA,10.33,9.64,10.73
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2012,NA,3.96,4.14,7.34
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2012,NA,2.4,1.33,4.24
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2012,NA,10.3,13.92,15.78
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2012,NA,7.74,9.66,10.1
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2012,NA,8.05,7.7,14.72
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2012,NA,1.37,2.07,3.12
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2012,NA,3.01,2.82,4.22
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2012,NA,NA,11.65,15.67
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2012,NA,NA,2.8,NA
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2012,NA,'0.68,'0.49,'0.85
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2012,NA,10.17,9.52,15.9
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2012,NA,14.6,15.47,16.47
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2012,NA,13.1,13.5,17.2
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2012,NA,9.18,9.43,13.1
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2012,NA,12.02,15.58,18.08
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2012,NA,1.77,1.58,3.4
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2012,NA,9.23,11.8,12.99
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2012,NA,7.55,8.97,11.23
+WB,Hugli,Khanakui-i,Khanakui-i,22.73472222,87.78444444,Ghoshpur,Tube Well,W27968,2012,NA,NA,11.31,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Srirampur1,Tube Well,W27979,2012,NA,NA,9.24,NA
+WB,Hugli,Uttarpara,Uttarpara,22.75222222,88.33027778,Uttarpara (Kotrang),Dug Well,W27980,2012,NA,NA,'0.97,NA
+WB,Hugli,Shrirampur,Shrirampur,22.82888889,88.35638889,Bhadreswar1,Dug Well,W28015,2012,NA,NA,2.8,NA
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.35666667,Bhadeshwar,Tube Well,W28016,2012,NA,NA,11.27,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.83361111,87.65,Mandaran,Tube Well,W28018,2012,NA,NA,12.55,NA
+WB,Hugli,Arambag,Arambag,22.91888889,87.81694444,Tirol,Tube Well,W28061,2012,NA,NA,9.87,NA
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Inter,Tube Well,W28076,2012,NA,NA,12.1,NA
+WB,Hugli,Goghat-i,Goghat-i,22.93972222,87.69944444,Bhadeshwar,Tube Well,W28078,2012,NA,NA,16.29,NA
+WB,Hugli,Goghat-i,Goghat-i,22.94666667,87.73222222,Kumarganj1,Tube Well,W28081,2012,NA,NA,8.36,NA
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.95861111,88.30777778,Polba2,Dug Well,W28085,2012,NA,NA,2.08,NA
+WB,Hugli,Chunchura,Chunchura,23.04944444,88.32,Khanyan1,Tube Well,W28153,2012,NA,NA,16.03,NA
+WB,Hugli,Balagarh,Balagarh,23.07888889,88.39611111,Pandua1,Tube Well,W28174,2012,NA,NA,18.39,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2012,NA,11.82,14.37,16.18
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2011,17.26,15.25,12.93,21.08
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2011,5.78,10.3,6.68,11.67
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2011,4.02,5.3,4.23,5.42
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2011,2.89,6.5,NA,9.03
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2011,2.8,4.3,3.75,4.45
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2011,11.02,10.4,9.48,13.85
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2011,12.17,14.4,NA,15.48
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2011,'0.99,2.1,1.77,2.89
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2011,10,10.5,8.96,16.31
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2011,10.54,11.5,9.86,12.6
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2011,20.36,20.75,20.09,21.62
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2011,10.87,16.6,12.66,16.09
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2011,4.3,10.6,8.01,12
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2011,12.35,16.8,14.07,16.65
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2011,10.36,10.6,8.34,14.93
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2011,4.29,11.4,3.52,7.11
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2011,'0.53,2.7,1.32,5.63
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2011,12.87,10.75,9.98,15.97
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2011,NA,13.8,NA,10.05
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2011,4.71,6.4,NA,6.69
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2011,6.82,11.2,7.02,15.55
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2011,1.1,2.75,1.34,3.64
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2011,'0.71,3.95,2.5,4.19
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2011,NA,12.6,10.01,16.58
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2011,NA,3.05,NA,3.28
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2011,'0.42,'0.9,'0.54,'0.76
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2011,9.78,10.4,8.34,17.15
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2011,12.26,16.4,NA,17.05
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2011,NA,14.4,NA,16.3
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2011,7.72,12,8.17,12.2
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2011,12.35,13.2,11.48,19.44
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2011,'0.14,2.2,1.04,4.39
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2011,NA,9.2,7.36,13.05
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2011,NA,'0.65,NA,'0.32
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2011,10.64,13.2,11.77,16.22
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2010,13.18,NA,14.36,20.13
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2010,13.13,12.97,11.91,15.83
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2010,NA,9.08,NA,11.2
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2010,4.61,4.89,4.73,5.69
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2010,6.52,2.1,5.74,9.03
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2010,4.11,4.05,4.1,5.01
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2010,11.74,10.87,10.02,13
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2010,17.43,13.48,13.13,15.78
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2010,1.64,NA,NA,4.46
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2010,11.35,11.05,8.78,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2010,NA,NA,13.14,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2010,20.68,18.93,21.58,20.57
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2010,16.63,16.06,14.42,16.45
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2010,9.76,8.98,13.61,11.13
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2010,15.81,NA,15.02,16.5
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2010,10.94,9.39,8.01,13.63
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2010,7.84,6.57,3.92,8.94
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2010,1.94,2.74,1.49,3.43
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2010,8.15,NA,NA,NA
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2010,12.72,10.31,9.08,14.8
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2010,13.96,NA,9.06,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2010,2.55,NA,7.12,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2010,9.44,NA,9.39,15.4
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2010,10.38,NA,NA,NA
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2010,2.24,1.84,1.97,4.4
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2010,NA,NA,10.65,15.45
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2010,2.68,3.28,2.76,3.42
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2010,10.99,13.34,8.07,14.37
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2010,15.01,15.84,15.2,15.54
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2010,13.08,NA,13.07,16.4
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2010,10.79,12.26,8.51,12.79
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2010,14.55,13.13,11.38,17.72
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2010,'0.77,2.27,1.58,3.12
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2010,9.55,9.04,7.31,12.68
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2010,NA,NA,NA,'0.32
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2010,'0.36,'0.48,'0.39,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2009,3.7,10.15,NA,14.46
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2009,3.23,3.8,3.56,4.09
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2009,10.9,10.77,11.33,4.93
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2009,'0.16,1.76,1.25,1.82
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2009,6.73,7.53,6.81,9.07
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2009,'0.21,'0.4,'0.44,'0.36
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2009,'0.05,1.5,1.37,1.46
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2009,NA,9.6,NA,12.22
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2009,2.55,2.95,2.8,2.71
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2009,8.2,NA,11.54,12.46
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2009,10.8,12.9,14.68,15.28
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2009,4.5,9.71,4.52,14.14
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2009,'0.42,2.8,1.62,4.3
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2009,10.03,9.6,8.65,13.4
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2009,NA,10.32,NA,11.36
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2009,NA,6.5,NA,4.85
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2009,NA,NA,NA,11.57
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2009,NA,13.2,NA,16.38
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2009,8.82,8.69,8.68,11.53
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2009,17.45,15.57,18.44,10.2
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2009,9,12.7,14.97,15.84
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2009,3.7,6.8,8.02,9.53
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2009,8.5,NA,NA,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2009,9.42,7.8,6.9,9.22
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2009,10.1,8.6,9.18,11.8
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2009,11.9,11.2,12.97,16.7
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2009,'0.62,2.22,NA,2.47
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2009,8.38,10.6,NA,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2009,NA,11.12,11.35,13.98
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2009,4.9,7.95,6.3,8.9
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2009,2.68,4.77,3.95,4.97
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2009,2.26,2.9,1.61,2.6
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2009,6.8,9.4,10.24,9.62
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2008,8.51,NA,10.72,13.95
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2008,1.84,4.18,4,4.47
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2008,8.75,10.22,8.45,16.14
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2008,'0.26,1.81,'0.77,5.33
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2008,4.68,5.63,5.14,10
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2008,'0.1,NA,'0.19,'0.27
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2008,1.02,1.63,1.37,2.71
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2008,6.05,NA,6.43,11.82
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2008,'0.3,NA,NA,2.84
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2008,NA,'0.48,NA,NA
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2008,6.58,7.6,5.47,NA
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2008,10.17,13.1,5.41,15.5
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2008,7.36,10.1,6.46,13.76
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2008,'0.6,2.42,'0.84,5.77
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2008,7.33,7.55,5.46,13.65
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2008,6.59,10.17,7.98,11.47
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2008,NA,6.71,NA,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2008,5.8,7.05,3.22,11.44
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2008,12.21,13.8,NA,16.82
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2008,NA,8.79,6.64,10.25
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2008,NA,6.8,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2008,15.2,15.27,12.35,18.98
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2008,9.71,14.6,5.42,15.63
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2008,4.75,5.84,2.4,9.95
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2008,NA,11,NA,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2008,5.43,7.43,3.93,11.79
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2008,6.59,8.2,NA,12.32
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2008,11.55,11.58,10.53,16.63
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2008,'0.94,NA,1.52,2.99
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2008,NA,11.08,8.11,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2008,7.17,8.22,6.92,14.72
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2008,3.76,7.4,4.29,8.91
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2008,3.69,4.69,4.02,5.38
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2008,2.69,NA,3.28,6.31
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2008,5.71,8.15,5.63,10.4
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2007,NA,9.66,NA,9.48
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2007,2.74,4.25,3.55,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2007,5.92,10,5.32,10.9
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2007,11.49,14.07,8.34,15.65
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2007,'0.22,2.15,'0.67,3.12
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2007,4.76,9.67,5.15,NA
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2007,'0.34,1.06,'0.36,'0.58
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2007,1.23,3.97,1.08,4.95
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2007,8.99,11.13,6.67,12.84
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2007,2.66,1.16,'0.24,NA
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2007,7.38,12.52,5.62,14.96
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2007,9.05,13.16,5.6,15.52
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2007,9.68,13.59,10.69,15.09
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2007,'0.77,3.14,1.14,6.6
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2007,NA,11.88,NA,12.06
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2007,7.85,13.36,5.81,14.45
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2007,NA,15.13,8.32,16.55
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2007,NA,7.11,6.49,8.79
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2007,4.4,11.91,3.2,13.55
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2007,4.89,18.4,12.45,21.77
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2007,7.73,11.96,6.99,12.95
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2007,17.07,16.71,13.82,18.94
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2007,9.09,13.45,5.18,18.6
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2007,3.39,7.24,2.27,10.27
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2007,7.69,12.78,4.05,15.62
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2007,6.57,10.51,4.53,12.68
+WB,Hugli,Chanditala-i,Chanditala-i,22.72833333,88.26111111,Aniya,Tube Well,W10470,2007,NA,13.92,NA,15.18
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2007,8.74,10.5,7.33,11.68
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2007,5.71,18.52,11.47,19.66
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2007,1.28,3.64,1.41,2.64
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2007,NA,19,8.37,NA
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2007,8.22,13.21,NA,16.11
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2007,4.58,9.66,4.4,9.48
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2007,2.67,5,3.41,5.23
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2007,5.17,5.35,1.71,4.4
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2007,NA,14.9,NA,15.98
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2006,7.65,9.29,8.02,13.76
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2006,4.48,4.34,4.15,5.1
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2006,7.95,9.99,5.66,10.74
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2006,11.77,10.54,9.77,16.41
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2006,NA,1.92,1.41,2.78
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2006,6.48,7.44,6.48,11.82
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2006,NA,'0.49,'0.39,'0.4
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2006,5,7.65,4.6,9.13
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2006,1.1,2.21,2.06,5.26
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2006,7.6,9.05,6.9,12.37
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2006,NA,'0.6,'0.41,'0.9
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2006,10.25,8.04,7.57,14.28
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2006,7.95,8.95,6.55,12.48
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2006,9.1,12.87,12.25,14.42
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2006,NA,9.9,7.69,14.2
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2006,'0.8,2.41,2,6.5
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2006,8.6,11.23,10.03,13.13
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2006,9.3,9.56,7.12,14.35
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2006,6.17,12.98,11.48,15.04
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2006,3.97,5.32,5.1,5.86
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2006,NA,6.21,6.09,11.31
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2006,12.5,15.2,14.75,18.69
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2006,15.87,13.99,12.19,19
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2006,8.6,14.09,12.71,15.77
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2006,3.32,6.16,3.48,10.13
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2006,8,9.91,6.42,14.11
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2006,6.43,7.51,3.28,13.01
+WB,Hugli,Chanditala-i,Chanditala-i,22.72833333,88.26111111,Aniya,Tube Well,W10470,2006,9.35,7.93,6.02,12.57
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2006,8.9,7.85,NA,12.79
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2006,9.8,8.28,8.2,NA
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2006,NA,12.91,NA,NA
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2006,NA,6.28,NA,NA
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2006,15.2,13.69,13.2,17.19
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2006,1.18,2.05,2.01,3.18
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.94694444,88.29361111,Polba-2,Tube Well,W10482,2006,12.65,NA,NA,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2006,NA,8.89,NA,12.71
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2006,7.58,9.83,8.97,16.43
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2006,8,9.91,8.07,13.05
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2006,5,10.03,4.95,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2006,3.72,4.87,4.28,5.35
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2006,'0.3,5.59,1.59,6.34
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.63638889,87.87333333,Senhat,Tube Well,W11194,2006,6.83,8.25,7.76,12.62
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.63638889,87.87333333,Senhat,Tube Well,W11194,2005,8.17,7.79,4.72,11.35
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.66083333,87.89611111,Tetulia Chakrapur,Tube Well,W11195,2005,NA,7.87,NA,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2005,9.13,8.98,4.3,10.45
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2005,11.72,10.11,7.58,15.62
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2005,NA,2.05,1.25,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2005,8.2,7.44,4.41,9.73
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2005,'0.45,1.03,'0.5,'0.45
+WB,Hugli,Pursura,Pursura,22.86166667,87.96472222,Jangalpara-2,Tube Well,W18452,2005,7.94,7.76,3.28,NA
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2005,2,2.56,1.45,3.13
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2005,3.46,3.44,'0.69,2.71
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2005,11.66,9.09,5.4,12.2
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2005,'0.17,1.02,1.27,NA
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2005,9.97,7.34,3.85,12.5
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2005,8.55,7.97,4.57,12
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2005,7.17,12.32,4.02,15.1
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2005,9.72,7.98,4.73,11.9
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2005,'0.64,2.43,1.22,6.62
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2005,10.57,8.17,2.09,10.02
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2005,9.55,9.43,5.56,12.6
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2005,11.43,10.39,1.56,15.67
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2005,NA,6.27,NA,6.01
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2005,8.57,6.94,2.55,9.45
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2005,17.22,14.94,12.76,NA
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2005,16.56,12.45,9.73,18.27
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2005,8.16,12.48,4.82,17.2
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2005,2.98,4.68,1.01,9.8
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2005,7.35,9.02,3.34,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2005,7.68,8.73,2.81,12.58
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2005,10.9,9.59,5.83,13.66
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2005,9.16,7.82,5.85,11.92
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2005,9.72,8.1,6.87,11.3
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2005,15.17,NA,10.85,NA
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2005,6.5,5.85,3.88,6.6
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2005,16.02,13.53,11.72,17.2
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2005,1.09,2.21,'0.53,2.71
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.94694444,88.29361111,Polba-2,Tube Well,W10482,2005,3.33,12.69,1.75,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2005,10.36,8.6,6.04,12.34
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2005,9.86,10.52,4.8,13.48
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2005,12.47,9.9,6.42,13.1
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2005,NA,8.87,NA,9.75
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2005,3.64,NA,4.13,5.92
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2005,'0.32,4.72,3.79,4.5
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2005,4.2,4.39,2.97,4.88
+WB,Hugli,Chanditala-i,Chanditala-i,22.72833333,88.26111111,Aniya,Tube Well,W10470,2005,8.65,8.47,4,11.4
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.63638889,87.87333333,Senhat,Tube Well,W11194,2004,5.2,8.65,7.03,13.26
+WB,Hugli,Chanditala-i,Chanditala-i,22.72833333,88.26111111,Aniya,Tube Well,W10470,2004,4.4,7.87,5.11,13.32
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2004,6.2,7.97,5.24,11.08
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2004,7.8,9.71,7.89,16.44
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2004,'0.8,1.61,'0.86,NA
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2004,5.6,6.35,4.8,11.79
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2004,'0.95,NA,'0.68,'0.5
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2004,2.05,1.91,'0.37,3.46
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2004,5.19,3.22,2.5,4.05
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2004,5.6,6.72,6.79,13.05
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2004,1.9,'0.4,'0.74,'0.92
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2004,NA,7.24,4.86,14
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2004,NA,'0.65,NA,'0.67
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2004,4.36,6.1,5.28,13.94
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,2004,11.67,NA,9.49,NA
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2004,6.5,12.36,6.87,14.94
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2004,5.87,10.62,7.65,14.74
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2004,'0.8,1.7,1.32,6.59
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2004,5.5,7.6,4.79,13.46
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2004,4.98,8.99,6.69,14.84
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2004,6.02,NA,7.64,16.5
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2004,7.5,NA,5.54,6.44
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2004,4.2,6.75,6.03,13.02
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2004,17.6,12.64,12.57,19.16
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2004,NA,7.28,NA,10.73
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2004,7.4,10.74,8.31,18.44
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2004,NA,11.54,6.69,14.85
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2004,2.2,2.1,2.82,8.97
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2004,6.6,4.94,4.92,14.91
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2004,3.8,7.57,4.71,13
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2004,6.3,8.3,6.33,14.88
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2004,5.95,7.41,6.61,12.75
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2004,5.5,7.38,7.74,13.44
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2004,14.8,NA,NA,NA
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2004,5.2,5.93,5.43,6.66
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2004,15.15,11.49,11.75,17.52
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2004,1.76,1.94,1.66,2.76
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.94694444,88.29361111,Polba-2,Tube Well,W10482,2004,5.3,NA,9.29,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2004,6.21,7.53,6.7,12.42
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2004,5.42,11.25,6.58,17.69
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2004,7.02,5.87,8.36,14.72
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2004,8.7,7.85,5.64,12.15
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,2004,6.11,NA,NA,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2004,3.05,4.79,3.95,5.58
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2004,2.34,5.31,3.04,5.06
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2004,3.32,4.71,4.18,4.85
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.66083333,87.89611111,Tetulia Chakrapur,Tube Well,W11195,2004,NA,NA,6.7,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.63638889,87.87333333,Senhat,Tube Well,W11194,2003,NA,NA,4.68,NA
+WB,Hugli,Chanditala-i,Chanditala-i,22.72833333,88.26111111,Aniya,Tube Well,W10470,2003,NA,NA,4.07,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2003,6.4,9.7,4.18,9.18
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2003,9.2,11.45,7.27,15.19
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2003,'0.2,2.01,'0.48,3.32
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2003,5.79,7.88,4.22,9.54
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2003,'0.4,'0.4,'0.43,'0.5
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2003,1.73,2.13,1.25,3.97
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2003,2.27,3.21,2.06,5.32
+WB,Hugli,Pursura,Pursura,22.82277778,87.95888889,Jangalpara-1,Tube Well,W10510,2003,NA,NA,4.89,NA
+WB,Hugli,Shrirampur,Shrirampur,22.83055556,88.36333333,Bhadreswar-2,Dug Well,W10513,2003,'0.22,NA,'0.27,'0.68
+WB,Hugli,Singur,Singur,22.85055556,88.21638889,Beraberi,Tube Well,W10514,2003,NA,NA,3.77,NA
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2003,'0.9,'0.99,'0.64,'0.88
+WB,Hugli,Chanditala-i,Chanditala-i,22.70833333,88.26111111,Seakhala,Tube Well,W11188,2003,NA,NA,4.5,NA
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,2003,9.93,NA,8.6,12.95
+WB,Hugli,Goghat-i,Goghat-i,22.84277778,87.75527778,Shyambazar,Tube Well,W11192,2003,NA,NA,3.7,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74944444,87.88777778,Ramnagar1,Tube Well,W11193,2003,NA,NA,4.47,NA
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2003,'0.63,2.42,'0.78,3.13
+WB,Hugli,Jangipara,Jangipara,22.75722222,88.06722222,Dilakash,Tube Well,W10499,2003,NA,NA,2.64,NA
+WB,Hugli,Jangipara,Jangipara,22.74166667,88.06111111,Jangipara,Tube Well,W10500,2003,NA,NA,4.1,NA
+WB,Hugli,Khanakui-i,Khanakui-i,22.74833333,87.78055556,Chackbedua,Tube Well,W10501,2003,NA,NA,4.85,NA
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2003,5.64,5.85,NA,5.71
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2003,4.39,11,2.39,9.68
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2003,15.34,15.6,11.2,18.37
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2003,NA,NA,3.44,NA
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2003,9.11,8.75,6.41,10.22
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2003,12.47,14.62,7.41,17.22
+WB,Hugli,Goghat-i,Goghat-i,22.83722222,87.74194444,Pandugram,Tube Well,W10491,2003,NA,NA,3.65,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2003,1.41,7.29,1.3,9.79
+WB,Hugli,Goghat-ii,Goghat-ii,22.87583333,87.64083333,Kanthali,Tube Well,W10495,2003,NA,NA,3.19,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2003,5.2,11.05,2.97,9.98
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2003,7.48,11.24,5.14,14.02
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2003,7.48,8.8,5.9,11.67
+WB,Hugli,Chanditala-ii,Chanditala-ii,22.73388889,88.18888889,Garalgacha,Tube Well,W10472,2003,NA,NA,6.7,NA
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2003,13.42,15.11,10.7,14.52
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2003,5.98,5.2,5.62,6.45
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2003,14.22,14.47,10.85,17
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2003,1.34,2.05,1.48,2.73
+WB,Hugli,Dadpur-polba,Dadpur-polba,22.94694444,88.29361111,Polba-2,Tube Well,W10482,2003,NA,NA,7.6,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2003,7.58,9.15,5.62,11.5
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2003,5.7,16.18,3.41,13.26
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2003,7.72,12.7,4.5,12.8
+WB,Hugli,Arambag,Arambag,22.86388889,87.87972222,Pursura(pachimpara),Tube Well,W10464,2003,7.84,NA,3.92,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2003,3.87,5.12,4.17,5.33
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2003,'0.49,'0.65,NA,2.1
+WB,Hugli,Balagarh,Balagarh,23.14555556,88.38277778,Inchura(dhobapara),Dug Well,W10468,2003,NA,NA,4.64,NA
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2003,4.46,4.58,4.34,5.23
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.66083333,87.89611111,Tetulia Chakrapur,Tube Well,W11195,2003,NA,NA,4.49,NA
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2002,6.24,11.8,3.27,10.11
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2002,4.17,4.73,3.9,4.48
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2002,'0.93,1.61,1.01,9.94
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2002,5.03,12.13,4.61,3.06
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2002,'0.2,1.3,1.07,'0.12
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2002,1.15,2.45,1.7,1.59
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2002,1.57,3.89,3.5,3.02
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2002,'0.22,1.8,1.05,'0.18
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2002,'0.43,'0.98,1.82,'0.61
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,2002,9.5,12.5,8.95,10.79
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2002,'0.88,3.12,1.81,4.3
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2002,8.35,6.69,6.03,6.9
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2002,2.75,6.77,4.72,8.44
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2002,12.6,12.55,11.65,14.97
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2002,NA,NA,8.05,8.24
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2002,8.08,9.4,5.6,10.96
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2002,7.45,15.27,7.02,17.04
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2002,2.32,8.9,2.01,8.98
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2002,NA,13.13,5.01,11.72
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2002,NA,14.01,5.7,10.97
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2002,7.5,11.44,NA,10.65
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2002,11.91,13,7.97,12.09
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2002,4.92,5.1,4.6,6.41
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2002,12.5,13.1,8.85,12.69
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2002,1.12,2.36,1.46,2.05
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2002,NA,2.69,NA,NA
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2002,6.64,11.24,6.01,9.73
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2002,5.42,17.78,7.42,11.38
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2002,7.79,15.32,7.02,11.99
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,2002,NA,NA,6.31,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2002,3.33,4.27,2.72,4.83
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2002,'0.48,4.45,3.2,3.47
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2002,8.82,15.32,8.1,10.39
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2001,5.6,9.96,7.53,9.4
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2001,2.78,4.91,4.48,4.19
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2001,'0.46,2.61,1.87,4.01
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2001,5.39,8.13,6.33,9.83
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2001,'0.16,'0.86,NA,'0.51
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34305556,Uttarpara1,Dug Well,W11201,2001,NA,NA,'0.5,NA
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2001,1.42,3.87,1.52,3.3
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2001,1.95,3.61,3.34,4.74
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2001,'0.07,'0.86,'0.35,1.13
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2001,'0.68,1.33,'0.93,'0.88
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,2001,9.63,10.81,9.3,11.3
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2001,'0.67,2.14,1.98,4.52
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2001,7.48,6.82,6.24,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2001,NA,10.85,4.33,NA
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2001,11.5,12.11,11.57,13.45
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2001,NA,8.66,NA,NA
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2001,7.48,9.07,7.54,9.84
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2001,NA,NA,10.72,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.96861111,87.66972222,Bengai Pz,Tube Well,W10492,2001,NA,NA,NA,10.5
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2001,'0.8,6.63,5,9.65
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2001,3.38,9.68,6.27,10.48
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2001,6.41,5.39,7.58,12.11
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2001,7.73,5.01,6.83,7
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2001,12.45,14.9,10.24,NA
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2001,5.2,4.99,5.57,5.07
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2001,13,15.5,10.46,14.2
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2001,1.24,2.36,1.93,3
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2001,3.14,2.8,4.22,3.39
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2001,7.34,8.97,7.07,10.74
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2001,5.27,14.67,7.83,11.63
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2001,6.32,12.79,8.03,11.02
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2001,2.88,5.39,5.1,4.89
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2001,'0.46,4.61,1.42,1.7
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2001,9.2,6.62,8.98,13.82
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,2000,NA,7.72,4.6,8.75
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,2000,2.67,3.23,3.28,4.85
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,2000,'0.21,1.76,1.14,2.41
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,2000,4.75,5.41,4.28,8.73
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,2000,NA,'0.36,'0.26,'0.13
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,2000,'0.88,3.19,2.82,4.75
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,2000,'0.18,'0.43,'0.67,'0.58
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,2000,'0.66,'0.96,'0.88,1.18
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,2000,8.65,9.32,8.51,11.87
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,2000,'0.92,1.42,1.64,4.12
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,2000,5.39,6.68,4.82,8.52
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,2000,3.18,7.05,3.42,8.75
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,2000,11.8,12.44,9.3,13.5
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,2000,'0.85,1.61,1.38,2.77
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,2000,NA,5.39,3.64,NA
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,2000,6.78,6.98,6.44,10.33
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,2000,NA,10.97,NA,16.47
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,2000,1.12,5.6,2.77,9.5
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,2000,3.63,7.27,3.2,9.18
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,2000,6.21,4.4,5.19,11.18
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,2000,6.55,6.77,6.04,10.41
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,2000,10.26,10.3,8.19,13.63
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,2000,3.54,3.2,3.36,5.7
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,2000,10.53,11.35,8.36,14.4
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,2000,1.03,2.25,1.82,2.88
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,2000,NA,2.18,1.99,3.07
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,2000,6.54,NA,5.54,10.04
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,2000,4.73,8.58,5.65,12.1
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,2000,5.04,7.82,5.56,10.89
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,2000,NA,6.43,4.49,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,2000,1.57,4.87,4.1,6.32
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,2000,'0.18,1.3,2.64,1.99
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,2000,7.73,NA,6.83,NA
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,1999,1.2,8.82,2.21,10.5
+WB,Hugli,Goghat-ii,Goghat-ii,22.96861111,87.66972222,Bengai Pz,Tube Well,W10492,1999,3.2,NA,2.43,11.02
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,1999,5.79,11.12,4.29,11.66
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,1999,'0.77,2.47,1.15,4.23
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,1999,2.35,7.15,4.89,7.06
+WB,Hugli,Khanakui-i,Khanakui-i,22.71666667,87.84583333,Khanakul,Tube Well,W10503,1999,2.4,12.78,NA,NA
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,1999,3.45,11.05,1.9,9.64
+WB,Hugli,Pandua,Pandua,23.03194444,88.31444444,Itachuna Deep,Tube Well,W10505,1999,12.57,NA,8.23,15.34
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,1999,1.14,2.56,1.24,4.62
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,1999,2.02,4.18,2.38,5.12
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,1999,-0.13,'0.44,'0.02,1.47
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,1999,'0.53,1.12,'0.77,1.04
+WB,Hugli,Chunchura,Chunchura,22.93416667,88.38861111,Sahaganj Deep,Tube Well,W11189,1999,8.17,NA,7.29,10.99
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,1999,4.75,10.62,4.51,9.73
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,1999,7.2,14.61,5.86,13.39
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,1999,'0.21,1.87,'0.43,4.1
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,1999,4.71,7.84,3.5,10
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,1999,'0.14,'0.3,'0.17,NA
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,1999,4.25,17.06,2.77,12.44
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,1999,6.23,13.7,3.8,11.74
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,1999,6.2,8.67,3.93,8.06
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,1999,2.44,5.05,3.22,5.04
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,1999,1.8,6.22,1.82,7.8
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,1999,2.57,4.63,2.81,5.99
+WB,Hugli,Chanditala-i,Chanditala-i,22.69305556,88.255,Janai Pz (chanditala),Tube Well,W10471,1999,6.25,NA,4.85,NA
+WB,Hugli,Chunchura,Chunchura,23.04555556,88.33916667,Gowa Deep Pz,Tube Well,W10473,1999,9.3,NA,7.1,15.01
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,1999,4.27,5.75,3.07,5.98
+WB,Hugli,Chunchura,Chunchura,23.04777778,88.33166667,Khanyan Deep Pz,Tube Well,W10476,1999,11.48,NA,7.28,14.19
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,1999,1.22,2.31,1.16,3.19
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,1999,2.13,2.16,1.66,3.12
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,1999,5.96,9.13,4.84,10.65
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.91944444,88.05194444,Ichhapur Pz,Tube Well,W10487,1999,3.93,NA,2.81,NA
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,1999,7.68,8.74,5.55,10.86
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,1999,7.21,15.43,NA,16.55
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,1999,3.54,11.2,2.47,NA
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,1998,NA,6.11,2.63,6.63
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,1998,NA,7.7,4.76,7.91
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,1998,NA,2.32,'0.77,2.65
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,1998,NA,6.34,4.64,7.7
+WB,Hugli,Khanakui-i,Khanakui-i,22.71666667,87.84583333,Khanakul,Tube Well,W10503,1998,NA,7.4,NA,5.58
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,1998,NA,7.05,2.83,5.52
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,1998,NA,2.05,1.16,2.85
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,1998,NA,4.21,2.35,4.26
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,1998,NA,1.7,'0.28,1.93
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,1998,NA,2.2,'0.63,1.09
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,1998,NA,6.15,3.92,7.57
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,1998,NA,9.4,6.43,9.83
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,1998,NA,1.91,'0.18,1.91
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,1998,NA,5.6,3.72,7.13
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,1998,NA,1.2,'0.34,'0.58
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,1998,NA,12,3.82,8.58
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,1998,NA,8.31,4.19,9.22
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,1998,NA,6.51,4.8,NA
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,1998,NA,2.7,3.77,5.37
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,1998,NA,4.2,1.52,4.4
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,1998,NA,3.1,3.72,3.93
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,1998,NA,4.15,4.55,5.41
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,1998,NA,2.28,1.22,2.46
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,1998,NA,4.24,4.19,2.69
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,1998,NA,6.01,5.12,7.72
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,1998,NA,7.89,5.85,8.54
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,1998,NA,10.67,6.33,13.33
+WB,Hugli,Goghat-ii,Goghat-ii,22.96861111,87.66972222,Bengai Pz,Tube Well,W10492,1998,NA,5.37,4.49,11.55
+WB,Hugli,Goghat-ii,Goghat-ii,22.82444444,87.64555556,Hazipur Pz,Tube Well,W10493,1998,NA,2.6,8.38,11.96
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,1998,NA,4.05,NA,6.76
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,1997,'0.26,1.95,1.01,'0.75
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,1997,'0.7,4.81,1.8,7.4
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,1997,2.04,3.35,4,4.37
+WB,Hugli,Goghat-ii,Goghat-ii,22.96861111,87.66972222,Bengai Pz,Tube Well,W10492,1997,3.05,9.26,4.28,13.4
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,1997,3.83,6.25,4.28,8.65
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,1997,5.9,10.69,6.87,14.6
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,1997,4.66,6.67,6.04,6.41
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,1997,4.59,7.34,6.59,9.83
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,1997,'0.21,2.09,'0.75,3.45
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,1997,5.14,7.39,5.8,10.07
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,1997,1,1.68,1.5,2.52
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97305556,88.03888889,Dasghara,Tube Well,W10483,1997,NA,7.72,NA,NA
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,1997,2.2,8.44,7.25,11.96
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,1997,2.7,2.53,4.1,3.36
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,1997,5.06,7.32,5.5,9.72
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,1997,2,2.25,2.2,2.65
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,1997,3.1,8.49,3.15,7.43
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,1997,3.07,4.44,3.9,5.5
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,1997,4.45,5.56,4.6,7.17
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,1997,2.2,3,2.63,3.57
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,1997,'0.88,1.16,1.63,'0.91
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,1997,3.05,3.75,3.13,6.11
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,1997,1.12,2.2,1.74,3.39
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,1997,2.03,4.55,2.4,5.33
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,1997,'0.23,'0.78,'0.7,'0.86
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,1997,4,7.17,6.13,5.51
+WB,Hugli,Khanakui-i,Khanakui-i,22.71666667,87.84583333,Khanakul,Tube Well,W10503,1997,3.01,6.94,5.8,3.91
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,1997,6.67,9.49,7.1,9.95
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,1997,4.33,7.15,4.82,7.28
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,1997,6.73,8.9,7.33,9.93
+WB,Hugli,Goghat-ii,Goghat-ii,22.82444444,87.64555556,Hazipur Pz,Tube Well,W10493,1997,2,13.81,2.27,15.28
+WB,Hugli,Goghat-ii,Goghat-ii,22.89638889,87.65527778,Kamarpukur Pz,Tube Well,W10494,1996,'0.37,3.8,1.65,9.8
+WB,Hugli,Goghat-ii,Goghat-ii,22.82444444,87.64555556,Hazipur Pz,Tube Well,W10493,1996,7.44,12.25,9.16,15
+WB,Hugli,Goghat-ii,Goghat-ii,22.96861111,87.66972222,Bengai Pz,Tube Well,W10492,1996,3.01,5.7,3.82,10.8
+WB,Hugli,Goghat-i,Goghat-i,22.88277778,87.71361111,Goghat Pz,Tube Well,W10490,1996,6,9.97,6.15,12.27
+WB,Hugli,Goghat-i,Goghat-i,22.925,87.76388889,Arambagh Pz-2,Tube Well,W10489,1996,6.35,6.58,6.62,10.03
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.975,88.09222222,Dhanikhali,Tube Well,W10486,1996,5.9,6.64,5.85,9.54
+WB,Hugli,Dhaniakhali,Dhaniakhali,22.97305556,88.03888889,Dasghara,Tube Well,W10483,1996,4.33,2.41,5.32,5.31
+WB,Hugli,Chunchura,Chunchura,22.91888889,88.38111111,Polba,Dug Well,W10480,1996,1.01,3.79,1.68,6.29
+WB,Hugli,Chunchura,Chunchura,22.97916667,88.38333333,Mogra,Dug Well,W10478,1996,1.1,'0.76,1.58,2.44
+WB,Hugli,Chunchura,Pandua,23.05388889,88.335,Khanyan,Dug Well,W10475,1996,3.85,4.7,1.43,5.6
+WB,Hugli,Balagarh,Balagarh,23.16222222,88.39805556,Karola,Dug Well,W10469,1996,1.15,2.98,2.05,4.08
+WB,Hugli,Balagarh,Balagarh,23.13527778,88.38,Inchura,Dug Well,W10467,1996,1.61,'0.95,2.04,4.55
+WB,Hugli,Balagarh,Balagarh,23.11111111,88.44166667,Balagarh,Dug Well,W10466,1996,2.52,3.57,3.73,3.57
+WB,Hugli,Arambag,Arambag,22.86277778,87.8825,Pursurah,Tube Well,W10465,1996,2.42,5.23,3.52,8.63
+WB,Hugli,Arambag,Arambag,22.83777778,87.87388889,Haraditya Pz,Tube Well,W10463,1996,5.08,7.47,7,12.72
+WB,Hugli,Uttarpara,Uttarpara,22.675,88.34166667,Uttarpara,Dug Well,W11200,1996,'0.76,1.11,'0.55,2.71
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.01083333,Tarakeswar Pz,Tube Well,W11199,1996,4.38,4.88,4.52,9.23
+WB,Hugli,Tarakeshwar,Tarakeshwar,22.89166667,88.00833333,Tarakeswar,Dug Well,W11198,1996,'0.14,'0.71,1.02,3.51
+WB,Hugli,Singur,Singur,22.81083333,88.25222222,Singur Pz,Tube Well,W11197,1996,6.86,7.63,7.09,11.63
+WB,Hugli,Pursura,Pursura,22.81083333,87.93194444,Srirampur Pz,Tube Well,W11196,1996,4.2,6.4,5.34,9.8
+WB,Hugli,Uttarpara,Uttarpara,22.74583333,88.325,Baidyabati-1,Dug Well,W10515,1996,'0.53,1.28,'0.85,1.18
+WB,Hugli,Shrirampur,Shrirampur,22.83333333,88.36,Bhadreswar-1,Dug Well,W10512,1996,'0.18,'0.63,'0.15,1.73
+WB,Hugli,Pursura,Pursura,22.88722222,87.94777778,Dihibatpur Pz,Tube Well,W10509,1996,NA,6.24,NA,NA
+WB,Hugli,Pandua,Pandua,23.00833333,88.21666667,Pandua-1,Dug Well,W10508,1996,1.47,1.89,2.42,3.29
+WB,Hugli,Pandua,Pandua,23.09166667,88.35833333,Mandloi,Dug Well,W10507,1996,'0.7,'0.49,1.1,1.54
+WB,Hugli,Khanakui-ii,Khanakui-ii,22.68472222,87.78638889,Kaknan Pz,Tube Well,W10504,1996,2.34,5.15,4.4,9.45
+WB,Hugli,Khanakui-i,Khanakui-i,22.71666667,87.84583333,Khanakul,Tube Well,W10503,1996,4.4,4.19,5.3,5.39
+WB,Hugli,Khanakui-i,Pursura,22.775,87.93666667,Digruighat,Tube Well,W10502,1996,3.36,5.79,5.33,8.09
+WB,Hugli,Haripai,Haripai,22.83333333,88.16666667,Nalikul1,Dug Well,W10498,1996,'0.59,1.42,1.19,3.37
+WB,Hugli,Haripai,Haripai,22.88277778,88.09722222,Naity Alipur Pz,Tube Well,W10497,1996,5.57,6.51,5.49,5.61
+WB,Hugli,Haripai,Haripai,22.81083333,88.03888889,Gopal Prasadpur,Tube Well,W10496,1996,3.09,5.13,3.22,9.03
+WB,Hugli,Arambag,Arambag,22.79277778,87.81555556,Gourhati Pz,Tube Well,W10462,1996,3.71,7.73,6.81,10.68
